@@ -1,121 +1,62 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=200&section=header&text=%3E%20YOUR_NAME.exe&fontSize=48&fontColor=00ff9f&animation=twinkling&fontAlignY=35&desc=System%20initialized...%20Full%20Stack%20Developer%20detected&descAlignY=60&descSize=15&descColor=00ff9f"/>
+<img src="./assets/space-banner.svg" width="100%"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-
-```
-┌─────────────────────────────────────────────────────┐
-│  boot@yourname:~$ whoami                             │
-│  > Full Stack Developer | Systems Thinker | Builder  │
-│  boot@yourname:~$ uptime --coding                    │
-│  > 5 years, 0 downtime, infinite curiosity           │
-│  boot@yourname:~$ status                             │
-│  > ONLINE — accepting interesting problems           │
-└─────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=22&duration=2500&pause=800&color=00FF9F&center=true&vCenter=true&width=650&lines=console.log(%22Hello+World%22)%3B;git+commit+-m+%22fixed+it+for+real+this+time%22;while(!success)+%7B+tryAgain()%3B+%7D;%F0%9F%9A%80+Deploying+dreams+to+production" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=git+commit+-m+%22it+works+on+my+machine%22;while(!success)+%7B+keepBuilding()%3B+%7D;%F0%9F%9A%80+Turning+ideas+into+deployed+reality" />
 </div>
 
 <br/>
 
 <div align="center">
 
-<a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff9f&labelColor=000000"/></a>
-<a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=00ff9f&labelColor=000000"/></a>
-<a href="https://yourportfolio.dev"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00ff9f&labelColor=000000"/></a>
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff9f&labelColor=000000"/></a>
+<a href="https://linkedin.com/in/zahidulislammaruf"><img src="https://img.shields.io/badge/-LinkedIn-0a0014?style=for-the-badge&logo=linkedin&logoColor=00f5ff"/></a>
+<a href="https://twitter.com/zahidulislammaruf"><img src="https://img.shields.io/badge/-Twitter-0a0014?style=for-the-badge&logo=x&logoColor=00f5ff"/></a>
+<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/-Email-0a0014?style=for-the-badge&logo=gmail&logoColor=00f5ff"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=Zahidulislammaruf&label=Terminal%20Visits&color=00f5ff&style=for-the-badge&labelColor=0a0014"/>
 
 </div>
 
 <br/>
 
-## 🎧 Now Playing
+## 🛰️ Tech Orbit — Two Rings, Independent Rotation
 
 <div align="center">
-
-<!-- Spotify live widget — updates in real time as you listen -->
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=yourspotifyid&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color=00ff9f&bar_color_cover=true" />
-
+<img src="./assets/orbit-stack.svg" width="480"/>
 </div>
 
-<br/>
-
-## ⏱️ This Week I Spent My Time On
-
-<div align="center">
-
-<!-- WakaTime real coding-hours breakdown, auto-updates weekly -->
-```text
-Python       ████████████░░░░░░░░   38.2 hrs
-TypeScript   █████████░░░░░░░░░░░   29.5 hrs
-Rust         █████░░░░░░░░░░░░░░░   14.1 hrs
-Docker       ███░░░░░░░░░░░░░░░░░    8.4 hrs
-```
-
-</div>
-
-<br/>
-
-## 🧬 Tech DNA
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,rust,go,docker,kubernetes,postgres,redis,aws,git&theme=dark" />
-
-</div>
-
-<br/>
-
-## 🗺️ Contribution Terrain (3D)
-
-<div align="center">
-
-<!-- Isometric 3D contribution graph — genuinely rare, most profiles don't have this -->
-<img src="https://github-contributor-stats.vercel.app/api?username=yourusername&format=svg" width="80%"/>
-<br/><br/>
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/profile-3d-contrib/profile-night-rainbow.svg" width="80%"/>
-
-</div>
+<p align="center"><i>Inner ring: JS · TS · React · Node — spins clockwise.<br/>Outer ring: Python · Docker · AWS · Git · SQL · Rust — spins counter-clockwise.</i></p>
 
 <br/>
 
 ## 🐍 The Snake That Eats My Commits
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/Zahidulislammaruf/Zahidulislammaruf/output/github-contribution-grid-snake-dark.svg" width="80%"/>
+</div>
 
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" width="80%"/>
+<br/>
+
+## 📡 Live Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Zahidulislammaruf&show_icons=true&theme=react&hide_border=true&bg_color=0a0014&title_color=00f5ff&icon_color=a742ff&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Zahidulislammaruf&theme=highcontrast&hide_border=true&background=0a0014&ring=00f5ff&fire=ff2ecb&currStreakLabel=00f5ff"/>
 
 </div>
 
 <br/>
 
-## 📡 Live Stats Feed
+## 🏆 Trophy Room
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff9f&icon_color=00ff9f&text_color=ffffff"/>
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=highcontrast&hide_border=true&background=0d0d0d&ring=00ff9f&fire=00ff9f&currStreakLabel=00ff9f"/>
-
-</div>
-
-<br/>
-
-## 💭 Random Byte of Wisdom
-
-<div align="center">
-
-<!-- Rotates a new dev quote every time your profile is viewed -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=Zahidulislammaruf&theme=algolia&no-frame=true&row=1&column=7"/>
 </div>
 
 <br/>
@@ -123,16 +64,16 @@ Docker       ███░░░░░░░░░░░░░░░░░    8.4
 ## 🗂️ Featured Builds
 
 <details open>
-<summary><b>Click to expand / collapse — interactive, not just static text</b></summary>
+<summary><b>Click to expand</b></summary>
 <br/>
 
 <div align="center">
 
 | Project | Stack | Highlight |
 |---|---|---|
-| **[Project One](#)** | React · Node · Postgres | Real-time collab tool, 10k+ users |
-| **[Project Two](#)** | Rust · WASM | 40% faster than the JS equivalent |
-| **[Project Three](#)** | Python · ML | Predicts X with 94% accuracy |
+| **[Project One](#)** | React · Node · Postgres | Real-time collab tool |
+| **[Project Two](#)** | Rust · WASM | 40% faster than JS equivalent |
+| **[Project Three](#)** | Python · ML | 94% prediction accuracy |
 
 </div>
 
@@ -140,24 +81,10 @@ Docker       ███░░░░░░░░░░░░░░░░░    8.4
 
 <br/>
 
-## 🏆 Trophy Room
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=chalk&no-frame=true&row=1&column=7"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=140&section=footer"/>
 
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Terminal%20Sessions&color=00ff9f&style=for-the-badge&labelColor=000000"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=150&section=footer"/>
-
-<i>boot@yourname:~$ logout</i>
+<i>boot@maruf:~$ logout</i>
 
 </div>

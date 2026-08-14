@@ -1,34 +1,78 @@
-<h1 align="center">Hi 👋, I'm Zahidul Islam Maruf</h1>
-<h3 align="center">Web Developer | SEO Enthusiast | Lifelong Learner</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:9D8FFF&height=220&section=header&text=Zahidul%20Islam%20Maruf&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20SEO%20Enthusiast%20%7C%20Lifelong%20Learner&descAlignY=52&descSize=18" alt="header banner" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+for+the+web+%F0%9F%8C%90;Exploring+SEO+%26+Web+Development;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Maruf+%F0%9F%91%8B;Building+for+the+web+%F0%9F%8C%90;Exploring+SEO+%26+Web+Development;Turning+ideas+into+working+apps+%F0%9F%9A%80;Always+learning%2C+always+building" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Zahidulislammaruf">
+    <img src="https://img.shields.io/github/followers/Zahidulislammaruf?label=Followers&style=social" />
+  </a>
+  <a href="https://bd.linkedin.com/in/zahidulislammaruf">
+    <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=LinkedIn&query=%24&url=https%3A%2F%2Fapi.github.com%2Fusers%2FZahidulislammaruf&style=social&logo=linkedin" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Zahidulislammaruf&label=Profile%20Views&color=58A6FF&style=flat" alt="profile views" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
+```yaml
+name: Zahidul Islam Maruf
+role: Web Developer & SEO Enthusiast
+location: Bangladesh (UTC+6)
+focus: Frontend Development, SEO, Performance
+currently_learning: Web Development (deep dive)
+currently_exploring: Search Engine Optimization
+fun_fact: "I enjoy turning simple ideas into working apps"
+```
+
 - 🎯 Currently **focusing** on leveling up my web development skills
-- 🌱 Learning **Web Development** in depth
-- 👀 Interested in **SEO** and building fast, discoverable websites
-- 🌍 Based in Bangladesh (UTC+6)
+- 🌱 Learning **Web Development** in depth — from fundamentals to modern frameworks
+- 👀 Interested in **SEO** and building fast, discoverable, high-performing websites
+- 💡 I enjoy building small, practical projects — games, stores, landing pages, and donation platforms
+- 🤝 Open to collaborating on frontend & JavaScript projects
 - 📫 Reach me on [LinkedIn](https://bd.linkedin.com/in/zahidulislammaruf)
 - ⚡ Fun fact: I like turning simple ideas into working apps
 
 ---
 
+### 🕐 A Day in My Life
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zahidulislammaruf&theme=react-dark&hide_border=true&area=true" width="100%" alt="activity graph" />
+</p>
+
+---
+
 ### 🛠️ Tech Stack
 
+**Languages & Markup**
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=googlesearchconsole&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+</p>
+
+**Frameworks & Libraries**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,bootstrap" />
+</p>
+
+**Backend & Database**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+**Tools & Platforms**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify,postman" />
+</p>
+
+**SEO & Performance**
+<p align="left">
+  <img src="https://img.shields.io/badge/Google_Search_Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
 </p>
 
 ---
@@ -60,6 +104,34 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zahidulislammaruf&theme=tokyo-night&hide_border=true" />
 </p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Zahidulislammaruf&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Zahidulislammaruf/Zahidulislammaruf/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+> 💡 To make the snake animation above work, add a GitHub Action ([platane/snk](https://github.com/Platane/snk)) to your profile repo — it auto-generates and updates this SVG on a schedule.
+
+---
+
+### 📈 Weekly Coding Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Zahidulislammaruf&theme=tokyonight&hide_border=true&layout=compact" alt="wakatime stats" />
+</p>
+
+> ⏱️ Connect [WakaTime](https://wakatime.com/) to your editor to populate this section with real coding-time data.
 
 ---
 
